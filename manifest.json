@@ -1,0 +1,9 @@
+{
+  "name": "입체도형 분류기",
+  "short_name": "도형 분류기",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#eef4ff",
+  "theme_color": "#2563eb",
+  "description": "Teachable Machine으로 원기둥, 원뿔, 구를 구별하는 앱"
+}
